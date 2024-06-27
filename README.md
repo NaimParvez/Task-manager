@@ -1,5 +1,7 @@
 # Task-Manager
 #Disclaimer:This is a clone project from Chouaib Djerdi(https://github.com/Chouaib-Djerdi)
+ 
+ 
  Task-Manager is a Web App developed using Python Django framwork.
  
 This Web App demonstrates CRUD functionality and User Authentification system of the Django framwork with function-based views.
